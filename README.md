@@ -26,4 +26,4 @@ Please cite this publication
     PUBLICATION: Huynh Van Luong, N. Deligiannis, J. Seiler, S. Forchhammer, and A. Kaup, 
             "Incorporating Prior Information in Compressive Online Robust Principal Component Analysis," 
              in e-print, arXiv, Jan. 2017.
-Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+
