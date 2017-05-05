@@ -26,5 +26,3 @@ Please cite this publication
     PUBLICATION: Huynh Van Luong, N. Deligiannis, J. Seiler, S. Forchhammer, and A. Kaup, 
             "Incorporating Prior Information in Compressive Online Robust Principal Component Analysis," 
              in e-print, arXiv, Jan. 2017.
-
-<a target="_blank"><img src="https://latex.codecogs.com/gif.latex?w_1" title="w_1" /></a>
