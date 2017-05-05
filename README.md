@@ -27,4 +27,4 @@ Please cite this publication
             "Incorporating Prior Information in Compressive Online Robust Principal Component Analysis," 
              in e-print, arXiv, Jan. 2017.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=w_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?w_1" title="w_1" /></a>
+<a target="_blank"><img src="https://latex.codecogs.com/gif.latex?w_1" title="w_1" /></a>
