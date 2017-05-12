@@ -14,16 +14,18 @@ Please cite this publication
              in e-print, arXiv, Jan. 2017.
              
 Solving the problem
+
     min{H(xt,vt|Ztm1,Btm1) = 1/2 ||Phi*(xt + vt) - yt||_2^2 + lambda*mu*sum(betaj*||Wj(xt-zj)||_1) + mu*||[Btm1 vt]||_*}
 
 Inputs:
+
     yt - m x 1 vector of observations/data (required input)
     Phi - m x n measurement matrix (required input)
     Ztm1 - n x J the foreground prior: initialized by J previous foregrounds 
     Btm1 - n x d the background prior: could be initialized by d previous backgrounds
 
-
 Outputs:
+
     xt, vt - n x 1 estimates of foreground and background
     Zt - n x J the updated foreground prior
     Bt - n x d the updated background prior
