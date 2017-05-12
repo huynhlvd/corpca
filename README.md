@@ -1,29 +1,11 @@
 # corpca
 Compressive Online Robust Principal Component Analysis with Multiple Prior Information (CORPCA).
--------------------------------------------------------------------------------------------------
-|       Version 1.1,  Jan. 24, 2017
-|       Implementations by Huynh Van Luong, Email: huynh.luong@fau.de,
-|       Multimedia Communications and Signal Processing, University of Erlangen-Nuremberg.
-|
-|        Please see the file LICENSE for the full text of the license.
--------------------------------------------------------------------------------------------------
 
-    Contributors: Huynh Van Luong, N. Deligiannis, J. Seiler, A. Kaup, and S. Forchhammer.
+    Version 1.1,  Jan. 24, 2017
+    Implementations by Huynh Van Luong, Email: huynh.luong@fau.de,
+    Multimedia Communications and Signal Processing, University of Erlangen-Nuremberg.
 
-    Redistribution and use in source and binary forms, with or without 
-    modification, are permitted provided that the following conditions are
-    met:
-
-        1. Redistributions of source code must retain the above copyright
-        notice, this list of conditions and the following disclaimer.
-
-        2. Redistributions in binary form must reproduce the above copyright
-        notice, this list of conditions and the following disclaimer in the
-        documentation and/or other materials provided with the distribution.
-
-        3. Redistributions in the hope that it will be useful, but WITHOUT ANY 
-        WARRANTY; without even the implied WARRANTY OF MERCHANTABILITY OR 
-        FITNESS FOR A PARTICULAR PURPOSE.
+    Please see the file LICENSE for the full text of the license.
 
 Please cite this publication
 
