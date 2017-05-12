@@ -1,7 +1,10 @@
 # corpca
 Compressive Online Robust Principal Component Analysis with Multiple Prior Information (CORPCA).
+
 Copyright (c) 2017, Huynh Van Luong, version 01, Jan. 24, 2017
+
 Multimedia Communications and Signal Processing, University of Erlangen-Nuremberg.
+
 All rights reserved.
 
     Contributors: Huynh Van Luong, N. Deligiannis, J. Seiler, A. Kaup, and S. Forchhammer.
