@@ -24,6 +24,6 @@ Inputs:
 - <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\boldsymbol{B}_{t}\in&space;\mathbb{R}^{n\times&space;d}" title="\boldsymbol{B}_{t}\in \mathbb{R}^{n\times d}" />: A matrix of the background prior, which could be initialized by previous backgrounds <br />
 
 Outputs:
-- xt, vt: estimates of foreground and background
-- Zt: the updated foreground prior
-- Bt: the updated background prior
+- xt, vt: Estimates of foreground and background
+- Zt: The updated foreground prior
+- Bt: The updated background prior
