@@ -20,6 +20,7 @@ Solving the problem
 Inputs:
 [tex]\small \boldsymbol{y}_{t}[/tex]
 [latex]\small \boldsymbol{y}_{t}[/latex]
+![](https://latex.codecogs.com/svg.latex?y%3Dx%5E2)
 <pre xml:lang="latex">\small \boldsymbol{y}_{t}</pre>
 
 <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\small&space;\boldsymbol{y}_{t}" title="\small \boldsymbol{y}_{t}" /> - m x 1 vector of observations/data (required input)
