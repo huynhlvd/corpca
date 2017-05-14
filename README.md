@@ -1,4 +1,4 @@
-# corpca
+# CORPCA
 Compressive Online Robust Principal Component Analysis with Multiple Prior Information (CORPCA).
 
     Version 1.1,  Jan. 24, 2017
