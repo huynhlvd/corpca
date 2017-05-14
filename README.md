@@ -19,7 +19,7 @@ Solving the problem
 
 Inputs:
 
-<img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\small&space;\boldsymbol{y}_{t}\in&space;\mathbb{R}^{m}" title="\small \boldsymbol{y}_{t}\in \mathbb{R}^{m}" /> - a vector of observations/data (required input)
+<img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\boldsymbol{y}_{t}\in&space;\mathbb{R}^{m}" title="\boldsymbol{y}_{t}\in \mathbb{R}^{m}" />- a vector of observations/data (required input)
     Phi - m x n measurement matrix (required input)
     Ztm1 - n x J the foreground prior: initialized by J previous foregrounds 
     Btm1 - n x d the background prior: could be initialized by d previous backgrounds
