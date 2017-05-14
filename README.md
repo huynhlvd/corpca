@@ -15,7 +15,7 @@ Please cite this publication
              
 Solving the problem
 
-    min{H(xt,vt|Ztm1,Btm1) = 1/2 ||Phi*(xt + vt) - yt||_2^2 + lambda*mu*sum(betaj*||Wj(xt-zj)||_1) + mu*||[Btm1 vt]||_*}
+    <a href="https://www.codecogs.com/eqnedit.php?latex=\min_{x_{t},v_{t}}\Big\{H(x_{t},v_{t}|y_{t},Z_{t-1},B_{t-1})=&space;\frac{1}{2}\|\mathbf{\Phi}(x_{t}&plus;v_{t})-y_{t}\|^{2}_{2}&space;&plus;\lambda&space;\mu\sum\limits_{j=0}^{J}\beta_{j}\|\mathbf{W}_{j}(x_{t}-z_{j})\|_{1}&plus;\mu\Big\|[B_{t-1}v_{t}]\Big\|_{*}\Big\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\min_{x_{t},v_{t}}\Big\{H(x_{t},v_{t}|y_{t},Z_{t-1},B_{t-1})=&space;\frac{1}{2}\|\mathbf{\Phi}(x_{t}&plus;v_{t})-y_{t}\|^{2}_{2}&space;&plus;\lambda&space;\mu\sum\limits_{j=0}^{J}\beta_{j}\|\mathbf{W}_{j}(x_{t}-z_{j})\|_{1}&plus;\mu\Big\|[B_{t-1}v_{t}]\Big\|_{*}\Big\}" title="\min_{x_{t},v_{t}}\Big\{H(x_{t},v_{t}|y_{t},Z_{t-1},B_{t-1})= \frac{1}{2}\|\mathbf{\Phi}(x_{t}+v_{t})-y_{t}\|^{2}_{2} +\lambda \mu\sum\limits_{j=0}^{J}\beta_{j}\|\mathbf{W}_{j}(x_{t}-z_{j})\|_{1}+\mu\Big\|[B_{t-1}v_{t}]\Big\|_{*}\Big\}" /></a>
 
 Inputs:
 
