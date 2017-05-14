@@ -18,12 +18,8 @@ Solving the problem
 <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;\small&space;\min_{\boldsymbol{x}_{t},\boldsymbol{v}_{t}}\Big\{H(\boldsymbol{x}_{t},\boldsymbol{v}_{t})=\frac{1}{2}\|\mathbf{\Phi}(\boldsymbol{x}_{t}&plus;\boldsymbol{v}_{t})-\boldsymbol{y}_{t}\|^{2}_{2}&space;&plus;\lambda\mu\sum\limits_{j=0}^{J}\beta_{j}\|\mathbf{W}_{j}(\boldsymbol{x}_{t}-\boldsymbol{z}_{j})\|_{1}&plus;&space;\mu\Big\|[\boldsymbol{B}_{t-1}\boldsymbol{v}_{t}]\Big\|_{*}\Big\}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\small&space;\min_{\boldsymbol{x}_{t},\boldsymbol{v}_{t}}\Big\{H(\boldsymbol{x}_{t},\boldsymbol{v}_{t})=\frac{1}{2}\|\mathbf{\Phi}(\boldsymbol{x}_{t}&plus;\boldsymbol{v}_{t})-\boldsymbol{y}_{t}\|^{2}_{2}&space;&plus;\lambda\mu\sum\limits_{j=0}^{J}\beta_{j}\|\mathbf{W}_{j}(\boldsymbol{x}_{t}-\boldsymbol{z}_{j})\|_{1}&plus;&space;\mu\Big\|[\boldsymbol{B}_{t-1}\boldsymbol{v}_{t}]\Big\|_{*}\Big\}" title="\small \min_{\boldsymbol{x}_{t},\boldsymbol{v}_{t}}\Big\{H(\boldsymbol{x}_{t},\boldsymbol{v}_{t})=\frac{1}{2}\|\mathbf{\Phi}(\boldsymbol{x}_{t}+\boldsymbol{v}_{t})-\boldsymbol{y}_{t}\|^{2}_{2} +\lambda\mu\sum\limits_{j=0}^{J}\beta_{j}\|\mathbf{W}_{j}(\boldsymbol{x}_{t}-\boldsymbol{z}_{j})\|_{1}+ \mu\Big\|[\boldsymbol{B}_{t-1}\boldsymbol{v}_{t}]\Big\|_{*}\Big\}" /></a>
 
 Inputs:
-[tex]\small \boldsymbol{y}_{t}[/tex]
-[latex]\small \boldsymbol{y}_{t}[/latex]
-![](https://latex.codecogs.com/svg.latex?y%3Dx%5E2)
-<pre xml:lang="latex">\small \boldsymbol{y}_{t}</pre>
 
-<img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\small&space;\boldsymbol{y}_{t}" title="\small \boldsymbol{y}_{t}" /> - m x 1 vector of observations/data (required input)
+<img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\small&space;\boldsymbol{y}_{t}\in&space;\mathbb{R}^{m}" title="\small \boldsymbol{y}_{t}\in \mathbb{R}^{m}" /> - a vector of observations/data (required input)
     Phi - m x n measurement matrix (required input)
     Ztm1 - n x J the foreground prior: initialized by J previous foregrounds 
     Btm1 - n x d the background prior: could be initialized by d previous backgrounds
