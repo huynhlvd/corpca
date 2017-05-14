@@ -19,7 +19,7 @@ Solving the problem
 
 Inputs:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;\small&space;\boldsymbol{y}_{t}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\small&space;\boldsymbol{y}_{t}" title="\small \boldsymbol{y}_{t}" /></a> - m x 1 vector of observations/data (required input)
+<a ><img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\small&space;\boldsymbol{y}_{t}" title="\small \boldsymbol{y}_{t}" /></a> - m x 1 vector of observations/data (required input)
     Phi - m x n measurement matrix (required input)
     Ztm1 - n x J the foreground prior: initialized by J previous foregrounds 
     Btm1 - n x d the background prior: could be initialized by d previous backgrounds
