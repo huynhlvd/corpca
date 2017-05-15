@@ -4,7 +4,7 @@ Copyright (c) 2017, Huynh Van Luong, version 01, Jan. 24, 2017.<br />
 Multimedia Communications and Signal Processing, University of Erlangen-Nuremberg.<br />
 All rights reserved.
 
-    Contributors: Huynh Van Luong, N. Deligiannis, J. Seiler, A. Kaup, and S. Forchhammer.
+    Contributors: Huynh Van Luong, N. Deligiannis, J. Seiler, S. Forchhammer, and A. Kaup.
 
     Redistribution and use in source and binary forms, with or without 
     modification, are permitted provided that the following conditions are
