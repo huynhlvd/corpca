@@ -30,4 +30,4 @@ Outputs:
 
 **_Source code files:_** 
 
-**_Experimental outputs:_** 
+**_Experimental results:_** 
