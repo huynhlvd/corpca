@@ -29,7 +29,7 @@ Outputs:
 - <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\boldsymbol{B}_{t}\in&space;\mathbb{R}^{n\times&space;d}" title="\boldsymbol{B}_{t}\in \mathbb{R}^{n\times d}" />: The updated background prior
 
 **_Source code files:_** 
-- `[corpca.m]https://www.google.com)`: The function for CORPCA
+- `[I'm an inline-style link](https://www.google.com) [corpca.m]https://www.google.com)`: The function for CORPCA
 - `usageDemo_corpca.m`: One demo to run CORPCA
 
 **_Experimental results:_** 
