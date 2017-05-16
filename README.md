@@ -30,7 +30,7 @@ Outputs:
 
 **_Source code files:_** 
 - [corpca.m](https://github.com/huynhlvd/corpca/blob/master/corpca.m): The function for CORPCA
-- `usageDemo_corpca.m`: One demo to run CORPCA
+- [usageDemo_corpca.m](https://github.com/huynhlvd/corpca/blob/master/usageDemo_corpca.m): One demo to run CORPCA
 
 **_Experimental results:_** 
 - `comparedFullRateBootstrapCurtain.pptx`: a presentation of video separation comparisons (Bootstrap and Curtain) for CORPCA vs. RPCA, GRASTA, and ReProCS with full data access
