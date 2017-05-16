@@ -37,3 +37,4 @@ Outputs:
 - `comparedCompressiveRatesBootstrap_CORPCA_vs_ReProCS.pptx`: a presentation of video separation comparisons (Bootstrap) for CORPCA vs. ReProCS with different measurement rates _m/n_
 - `comparedCompressiveRatesCurtain_CORPCA_vs_ReProCS.pptx`: a presentation of video separation comparisons (Curtain) for CORPCA vs. ReProCS with different measurement rates _m/n_
 - `videos`: This folder consists of original test videos and separated sequences, please see file `videos/videoList.md` for more details
+[I'm an inline-style link](https://www.google.com)
