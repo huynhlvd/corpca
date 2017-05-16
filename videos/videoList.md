@@ -17,10 +17,10 @@
   - [curtainBgRate1Rpca.avi](): The separated background videos for Curtain of RPCA with full data access
   
  - GRASTA
-  - [bootstrapFgRate1Grasta.avi](): The separated foreground videos for Bootstrap of GRASTA with full data access
-  - [bootstrapBgRate1Grasta.avi](): The separated background videos for Bootstrap of GRASTA with full data access
-  - [curtainFgRate1Grasta.avi](): The separated foreground videos for Curtain of GRASTA with full data access
-  - [curtainBgRate1Grasta.avi](): The separated background videos for Curtain of GRASTA with full data access
+    - [bootstrapFgRate1Grasta.avi](): The separated foreground videos for Bootstrap of GRASTA with full data access
+    - [bootstrapBgRate1Grasta.avi](): The separated background videos for Bootstrap of GRASTA with full data access
+    - [curtainFgRate1Grasta.avi](): The separated foreground videos for Curtain of GRASTA with full data access
+    - [curtainBgRate1Grasta.avi](): The separated background videos for Curtain of GRASTA with full data access
 
 - ReProCS
   - [bootstrapFgRateXReprocs.avi](): The separated foreground videos for Bootstrap of ReProCS with rate X, i.e., 1 (_m/n=1_), 02 (_m/n=0.2_),...
