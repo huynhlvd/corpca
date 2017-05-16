@@ -36,3 +36,4 @@ Outputs:
 - `comparedFullRateBootstrapCurtain.pptx`: a presentation of video separation comparisons (Bootstrap and Curtain) for CORPCA vs. RPCA, GRASTA, and ReProCS with full data access
 - `comparedCompressiveRatesBootstrap_CORPCA_vs_ReProCS.pptx`: a presentation of video separation comparisons (Bootstrap) for CORPCA vs. ReProCS with different measurement rates _m/n_
 - `comparedCompressiveRatesCurtain_CORPCA_vs_ReProCS.pptx`: a presentation of video separation comparisons (Curtain) for CORPCA vs. ReProCS with different measurement rates _m/n_
+* videos:
