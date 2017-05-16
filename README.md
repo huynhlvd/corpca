@@ -29,7 +29,7 @@ Outputs:
 - <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\boldsymbol{B}_{t}\in&space;\mathbb{R}^{n\times&space;d}" title="\boldsymbol{B}_{t}\in \mathbb{R}^{n\times d}" />: The updated background prior
 
 **_Source code files:_** 
-- `(https://www.google.com)corpca.m</a> `: The function for CORPCA
+- `[corpca.m]https://www.google.com)`: The function for CORPCA
 - `usageDemo_corpca.m`: One demo to run CORPCA
 
 **_Experimental results:_** 
@@ -37,4 +37,4 @@ Outputs:
 - `comparedCompressiveRatesBootstrap_CORPCA_vs_ReProCS.pptx`: a presentation of video separation comparisons (Bootstrap) for CORPCA vs. ReProCS with different measurement rates _m/n_
 - `comparedCompressiveRatesCurtain_CORPCA_vs_ReProCS.pptx`: a presentation of video separation comparisons (Curtain) for CORPCA vs. ReProCS with different measurement rates _m/n_
 - `videos`: This folder consists of original test videos and separated sequences, please see file `videos/videoList.md` for more details
-[I'm an inline-style link](https://www.google.com)
+
