@@ -29,7 +29,7 @@ Outputs:
 - <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\boldsymbol{B}_{t}\in&space;\mathbb{R}^{n\times&space;d}" title="\boldsymbol{B}_{t}\in \mathbb{R}^{n\times d}" />: The updated background prior
 
 **_Source code files:_** 
-- `<a href="http://en.wikipedia.org/wiki/Petersen_graph">corpca.m</a> `: The function for CORPCA
+- `(https://www.google.com)corpca.m</a> `: The function for CORPCA
 - `usageDemo_corpca.m`: One demo to run CORPCA
 
 **_Experimental results:_** 
