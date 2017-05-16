@@ -5,7 +5,7 @@ Compressive Online Robust Principal Component Analysis with Multiple Prior Infor
     Implementations by Huynh Van Luong, Email: huynh.luong@fau.de,
     Multimedia Communications and Signal Processing, University of Erlangen-Nuremberg.
     
-(_Please see [LICENSE](https://github.com/huynhlvd/corpca/blob/master/LICENSE.md) for the full text of the license_)
+`Please see` [LICENSE](https://github.com/huynhlvd/corpca/blob/master/LICENSE.md) `for the full text of the license.`
 
 Please cite this publication
 
