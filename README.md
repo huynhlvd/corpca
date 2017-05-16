@@ -33,7 +33,7 @@ Outputs:
 - [usageDemo_corpca.m](https://github.com/huynhlvd/corpca/blob/master/usageDemo_corpca.m): One demo to run CORPCA
 
 **_Experimental results:_** 
-- [comparedFullRateBootstrapCurtain.pptx](https://github.com/huynhlvd/corpca/blob/master/comparedFullRateBootstrapCurtain.pptx?raw=true): a presentation of video separation comparisons (Bootstrap and Curtain) for CORPCA vs. RPCA, GRASTA, and ReProCS with full data access
+- [fullRateComparisons_BootstrapCurtain.pptx](https://github.com/huynhlvd/corpca/blob/master/fullRateComparisons_BootstrapCurtain.pptx?raw=true): a presentation of video separation comparisons (Bootstrap and Curtain) for CORPCA vs. RPCA, GRASTA, and ReProCS with full data access
 - [compressiveRatesCORPCAvsReProCS_Bootstrap.pptx](https://github.com/huynhlvd/corpca/blob/master/compressiveRatesCORPCAvsReProCS_Bootstrap.pptx?raw=true): a presentation of video separation comparisons (Bootstrap) for CORPCA vs. ReProCS with different measurement rates _m/n_
 - [compressiveRatesCORPCAvsReProCS_Curtain.pptx](https://github.com/huynhlvd/corpca/blob/master/compressiveRatesCORPCAvsReProCS_Curtain.pptx?raw=true): a presentation of video separation comparisons (Curtain) for CORPCA vs. ReProCS with different measurement rates _m/n_
 - [videos](https://github.com/huynhlvd/corpca/tree/master/videos): This folder consists of original test videos and separated sequences 
