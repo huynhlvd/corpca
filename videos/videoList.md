@@ -1,5 +1,5 @@
 
-List of video files
+** List of video files**
 
 - [bootstrap.avi](https://github.com/huynhlvd/corpca/blob/master/videos/bootstrap.avi?raw=true): The original video of Bootstrap
 - [curtain.avi](https://github.com/huynhlvd/corpca/blob/master/videos/curtain.avi?raw=true): The original video of Curtain
@@ -16,7 +16,7 @@ List of video files
   - [curtainFgRate1Rpca](): The separated foreground videos for Curtain of RPCA with full data access
   - [curtainBgRate1Rpca](): The separated background videos for Curtain of RPCA with full data access
   
-  - GRASTA
+ - GRASTA
   - [bootstrapFgRate1Grasta](): The separated foreground videos for Bootstrap of GRASTA with full data access
   - [bootstrapBgRate1Grasta](): The separated background videos for Bootstrap of GRASTA with full data access
   - [curtainFgRate1Grasta](): The separated foreground videos for Curtain of GRASTA with full data access
