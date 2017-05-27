@@ -31,6 +31,8 @@ Outputs:
 **_Source code files:_** 
 - [corpca.m](https://github.com/huynhlvd/corpca/blob/master/corpca.m): The function for CORPCA
 - [usageDemo_corpca.m](https://github.com/huynhlvd/corpca/blob/master/usageDemo_corpca.m): One demo to run CORPCA
+- [dataGeneration.m](https://github.com/huynhlvd/corpca/blob/master/dataGeneration.m): Generating data for numerical simulations
+- [inexact_alm_rpca](https://github.com/huynhlvd/corpca/blob/master/inexact_alm_rpca): This folder contains a offline RPCA (batch-based) code for initializing background and foreground prior information
 
 **_Experimental results:_** 
 - [fullRateComparisons_BootstrapCurtain.pptx](https://github.com/huynhlvd/corpca/blob/master/fullRateComparisons_BootstrapCurtain.pptx?raw=true): a presentation of video separation comparisons (Bootstrap and Curtain) for CORPCA vs. RPCA, GRASTA, and ReProCS with full data access
