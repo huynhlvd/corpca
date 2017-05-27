@@ -3,8 +3,8 @@ function [M, trainData, L, S] = dataGeneration (n, numFrame, numTrain, d, s0, sj
     % M, L and S are n-dimensioanl vectors
     % Length of training sequence: numTrain.
     % Sequence lenght: numFrame
-    %%
- 
+    %
+    % Generating low-rank part
     % U: (numTrain + numFrame) * d, i.i.d. N(0, 1)
     % V: n * d, i.i.d. N(0, 1)
     % L = U * V';
@@ -35,7 +35,7 @@ function [M, trainData, L, S] = dataGeneration (n, numFrame, numTrain, d, s0, sj
     M = M_all(:, numTrain + 1 : end);   % Testing data
 
 end
-%% Supported funtions to generate sparse components
+% Supported funtions to generate sparse components
 function [z, zPerm] = generateZ(s, sZ, commRatio, x, xPerm)
     % =========================================================================
     % Parameters of the experiment
@@ -80,7 +80,7 @@ function [z, zPerm] = generateZ(s, sZ, commRatio, x, xPerm)
             zPerm = [zPerm iPerm(k)];
         end
     end
-    %% Regenerate z if card_z > s(2)
+    % Regenerate z if card_z > s(2)
 
     if card_z > s(2)    
        iDel = randperm(size(zPerm,2));
