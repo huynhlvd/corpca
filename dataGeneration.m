@@ -4,7 +4,7 @@ function [M, trainData, L, S] = dataGeneration (n, numFrame, numTrain, d, s0, sj
     % Length of training sequence: numTrain.
     % Sequence lenght: numFrame
     %%
-    % Generating low-rank part
+ 
     % U: (numTrain + numFrame) * d, i.i.d. N(0, 1)
     % V: n * d, i.i.d. N(0, 1)
     % L = U * V';
