@@ -4,7 +4,7 @@ function [M, trainData, L, S] = dataGeneration (n, numFrame, numTrain, d, s0, sj
     % Length of training sequence: numTrain.
     % Sequence lenght: numFrame
     %%
-    % Generating low-rank part
+    % Generating low-rank
     % U: (numTrain + numFrame) * d, i.i.d. N(0, 1)
     % V: n * d, i.i.d. N(0, 1)
     % L = U * V';
@@ -35,7 +35,7 @@ function [M, trainData, L, S] = dataGeneration (n, numFrame, numTrain, d, s0, sj
     M = M_all(:, numTrain + 1 : end);   % Testing data
 
 end
-%% Supported funtions to generate sparse componen
+%% Supported funtions 
 function [z, zPerm] = generateZ(s, sZ, commRatio, x, xPerm)
     % =========================================================================
     % Parameters of the experiment
