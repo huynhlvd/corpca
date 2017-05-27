@@ -9,7 +9,7 @@ function [M, trainData, L, S] = dataGeneration (n, numFrame, numTrain, d, s0, sj
     % V: n * d, i.i.d. N(0, 1)
     % L = U * V';
     
-    % Generating low-rank component
+    % Generating low-rank components
     mu = 0;
     sigmaU = 1;%/n;
     sigmaV = 1;%/(numTrain + numFrame);
