@@ -35,7 +35,7 @@ function [M, trainData, L, S] = dataGeneration (n, numFrame, numTrain, d, s0, sj
     M = M_all(:, numTrain + 1 : end);   % Testing data
 
 end
-%% Supported funtions to generate sparse component
+%% Supported funtions to generate sparse componen
 function [z, zPerm] = generateZ(s, sZ, commRatio, x, xPerm)
     % =========================================================================
     % Parameters of the experiment
