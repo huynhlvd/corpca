@@ -9,7 +9,7 @@
 
 Please cite this publication: 
 
-Huynh Van Luong, N. Deligiannis, J. Seiler, S. Forchhammer, and A. Kaup, "[Incorporating Prior Information in Compressive Online Robust Principal Component Analysis](https://arxiv.org/abs/1701.06852)," in e-print, arXiv, Jan. 2017.`
+`Huynh Van Luong, N. Deligiannis, J. Seiler, S. Forchhammer, and A. Kaup, "`[Incorporating Prior Information in Compressive Online Robust Principal Component Analysis](https://arxiv.org/abs/1701.06852)`," in e-print, arXiv, Jan. 2017.`
              
 **_Solving the problem_**
 
