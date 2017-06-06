@@ -48,10 +48,6 @@ for t = 1 : q;
 %t = 1; % Testing fame i = 1  
     fprintf('Testing fame %d at a measurement rate %2.2f \n', t, m/n);
 
-    for i = 1 : n
-        rpMat(:,i) = rpMat(:,i)/norm(rpMat(:,i)) ;
-    end  
-
     yt = Phi*M (:,t); % Input observation    
     [xt, vt, Zt, Bt] = corpca(yt, Phi, Ztm1, Btm1); % Performing CORPCA for separation
     % update prior information
