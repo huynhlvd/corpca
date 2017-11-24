@@ -33,9 +33,10 @@ Outputs:
 - [inexact_alm_rpca](https://github.com/huynhlvd/corpca/blob/master/inexact_alm_rpca): This folder contains an offline RPCA (batch-based) code for initializing background and foreground prior information
 
 **_Experimental results:_** 
+- [videos](https://github.com/huynhlvd/corpca/tree/master/videos): This folder consists of original test videos and separated sequences 
+    - Please see file [videos/videoList.md](https://github.com/huynhlvd/corpca/blob/master/videos/videoList.md) for more details
 - [fullRateComparisons_BootstrapCurtain.pptx](https://github.com/huynhlvd/corpca/blob/master/fullRateComparisons_BootstrapCurtain.pptx?raw=true): a presentation of video separation comparisons (Bootstrap and Curtain) for CORPCA vs. RPCA, GRASTA, and ReProCS with full data access
 - [compressiveRatesCORPCAvsReProCS_Bootstrap.pptx](https://github.com/huynhlvd/corpca/blob/master/compressiveRatesCORPCAvsReProCS_Bootstrap.pptx?raw=true): a presentation of video separation comparisons (Bootstrap) for CORPCA vs. ReProCS with different measurement rates _m/n_
 - [compressiveRatesCORPCAvsReProCS_Curtain.pptx](https://github.com/huynhlvd/corpca/blob/master/compressiveRatesCORPCAvsReProCS_Curtain.pptx?raw=true): a presentation of video separation comparisons (Curtain) for CORPCA vs. ReProCS with different measurement rates _m/n_
-- [videos](https://github.com/huynhlvd/corpca/tree/master/videos): This folder consists of original test videos and separated sequences 
-    - Please see file [videos/videoList.md](https://github.com/huynhlvd/corpca/blob/master/videos/videoList.md) for more details
+
 
