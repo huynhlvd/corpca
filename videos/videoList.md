@@ -31,4 +31,4 @@
 
 - [curtain]: Curtain images
 
--[bootstrap]: Bootstrap images
+- [bootstrap]: Bootstrap images
