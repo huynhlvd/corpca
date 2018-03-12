@@ -1,7 +1,7 @@
 
 **List of video files**
 - [bootstrap](https://github.com/huynhlvd/corpca/tree/master/videos/bootstrap): The original images of Bootstrap sequence
-- [curtain.avi](https://github.com/huynhlvd/corpca/tree/master/videos/curtain): The original images of Curtain sequence
+- [curtain](https://github.com/huynhlvd/corpca/tree/master/videos/curtain): The original images of Curtain sequence
 
 - [bootstrap.avi](https://github.com/huynhlvd/corpca/blob/master/videos/bootstrap.avi?raw=true): Bootstrap video
 - [curtain.avi](https://github.com/huynhlvd/corpca/blob/master/videos/curtain.avi?raw=true): Curtain video
