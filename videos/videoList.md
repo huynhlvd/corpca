@@ -1,5 +1,5 @@
 
-**List of video files**
+**List of video files and image folders**
 - [bootstrap](https://github.com/huynhlvd/corpca/tree/master/videos/bootstrap): The original images of Bootstrap sequence
 - [curtain](https://github.com/huynhlvd/corpca/tree/master/videos/curtain): The original images of Curtain sequence
 
