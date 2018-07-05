@@ -9,7 +9,7 @@
 
 Please cite this publication: 
 
-`Huynh Van Luong, N. Deligiannis, J. Seiler, S. Forchhammer, and A. Kaup, "`[Compressive Online Robust Principal Component Analysis with Multiple Prior Information](https://arxiv.org/abs/1701.06852)`," in IEEE Global Conference on Signal and Information Processing (GlobalSIP 2017), e-print in arXiv, Montreal, Canada, Nov. 2017.`
+`Huynh Van Luong, N. Deligiannis, J. Seiler, S. Forchhammer, and A. Kaup, "`[Compressive Online Robust Principal Component Analysis with Multiple Prior Information](https://arxiv.org/abs/1701.06852)`," in IEEE Global Conference on Signal and Information Processing (GlobalSIP 2017), Montreal, Canada, Nov. 2017.`
 
 `Huynh Van Luong, Nikos Deligiannis, Jürgen Seiler, Søren Forchhammer, and André Kaup, "`[Compressive Online Robust Principal Component Analysis Via n-l1 Minimization](https://ieeexplore.ieee.org/document/8353378/)`," IEEE Transactions on Image Processing, vol. 27, no. 9, pp. 4314-4329, Sep. 2018.`
              
