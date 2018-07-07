@@ -7,7 +7,7 @@
   
   `Please see` [LICENSE](https://github.com/huynhlvd/corpca/blob/master/LICENSE.md) `for the full text of the license.`
 
-Please cite this publication: 
+Please cite these publications: 
 
 `Huynh Van Luong, N. Deligiannis, J. Seiler, S. Forchhammer, and A. Kaup, "`[Compressive Online Robust Principal Component Analysis with Multiple Prior Information](https://arxiv.org/abs/1701.06852)`," in IEEE Global Conference on Signal and Information Processing (GlobalSIP 2017), Montreal, Canada, Nov. 2017.`
 
